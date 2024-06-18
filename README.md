@@ -38,5 +38,5 @@ To install and run this script, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/AdvancedPentestingTool.git
+   git clone https://github.com/EncrypterColRoot/AdvancedPentestingTool.git
    cd AdvancedPentestingTool
